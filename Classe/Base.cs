@@ -6,5 +6,6 @@ namespace Sabores
         public string sabor {get; protected set;}
         public tipo tipo {get; protected set;}
         public int quantidade {get; protected set;}
+        public bool ativo {get; protected set;}
     }
 }
