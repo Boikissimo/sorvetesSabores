@@ -2,13 +2,14 @@ using System.Collections.Generic;
 
 namespace Sabores
 {
-    public interface iSorvetes<T>
+    public interface iSorvetes<tipo>
     {
-        List<T> lista();
-        T retornaID(int id);
-        void adiciona(T entidade);
-        void excluir(int id);
-        void atualizar(int id, T entidade);
+        List<tipo> lista();
+        tipo retornaID(int id);
+        void adiciona(tipo entidade);
+        string excluir(int id);
+        string producao(int id, uint produzido);
+        string venda(int id, uint venda);
         int proxID();
     }
 }
