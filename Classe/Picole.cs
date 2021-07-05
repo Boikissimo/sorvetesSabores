@@ -9,7 +9,7 @@ namespace Sabores
         //optei por não colocar variações de tamanho do picolé, reduzindo o consumo de memória.
 
         //metodo
-        public picole(int id, string sabor, int quantidade, bool ativo, basePicolé liquido)
+        public picole(int id, string sabor, int quantidade, basePicolé liquido)
         {
             this.id = id;
             this.sabor = sabor;
@@ -32,5 +32,17 @@ namespace Sabores
         {
             this.ativo = false;
         }
+        public bool retornaExcluido()
+		{
+			return this.ativo;
+		}
+        public string retornaSabor()
+		{
+			return this.sabor;
+		}
+		public int retornaId()
+		{
+			return this.id;
+		}
     }
 }

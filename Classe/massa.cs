@@ -10,7 +10,7 @@ namespace Sabores
         acredito que este programa será usado por empresas grandes, que produzem caixas maiores do que 65L*/
 
         //metodos
-        public massa(int id, string sabor, int quantidade, bool ativo, massaEmbalagem embalagem, ushort tamanhoML)
+        public massa(int id, string sabor, int quantidade, massaEmbalagem embalagem, ushort tamanhoML)
         {
             this.id = id;
             this.sabor = sabor;
@@ -35,6 +35,17 @@ namespace Sabores
         {
             this.ativo = false;
         }
-
+        public bool retornaExcluido()
+		{
+			return this.ativo;
+		}
+        public string retornaSabor()
+		{
+			return this.sabor;
+		}
+		public int retornaId()
+		{
+			return this.id;
+		}
     }
 }

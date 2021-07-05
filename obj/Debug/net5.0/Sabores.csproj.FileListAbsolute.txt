@@ -1,0 +1,16 @@
+D:\Workspace\DigitalInov\Sabores\obj\Debug\net5.0\Sabores.csproj.AssemblyReference.cache
+D:\Workspace\DigitalInov\Sabores\obj\Debug\net5.0\Sabores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DigitalInov\Sabores\obj\Debug\net5.0\Sabores.AssemblyInfoInputs.cache
+D:\Workspace\DigitalInov\Sabores\obj\Debug\net5.0\Sabores.AssemblyInfo.cs
+D:\Workspace\DigitalInov\Sabores\obj\Debug\net5.0\Sabores.csproj.CoreCompileInputs.cache
+D:\Workspace\DigitalInov\Sabores\bin\Debug\net5.0\Sabores.exe
+D:\Workspace\DigitalInov\Sabores\bin\Debug\net5.0\Sabores.deps.json
+D:\Workspace\DigitalInov\Sabores\bin\Debug\net5.0\Sabores.runtimeconfig.json
+D:\Workspace\DigitalInov\Sabores\bin\Debug\net5.0\Sabores.runtimeconfig.dev.json
+D:\Workspace\DigitalInov\Sabores\bin\Debug\net5.0\Sabores.dll
+D:\Workspace\DigitalInov\Sabores\bin\Debug\net5.0\ref\Sabores.dll
+D:\Workspace\DigitalInov\Sabores\bin\Debug\net5.0\Sabores.pdb
+D:\Workspace\DigitalInov\Sabores\obj\Debug\net5.0\Sabores.dll
+D:\Workspace\DigitalInov\Sabores\obj\Debug\net5.0\ref\Sabores.dll
+D:\Workspace\DigitalInov\Sabores\obj\Debug\net5.0\Sabores.pdb
+D:\Workspace\DigitalInov\Sabores\obj\Debug\net5.0\Sabores.genruntimeconfig.cache

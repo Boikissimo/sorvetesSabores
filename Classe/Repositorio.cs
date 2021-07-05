@@ -25,7 +25,7 @@ namespace Sabores
         {
             return listaMassa.Count;
         }
-        public massa retornaID(int id)
+        public massa retornaPorID(int id)
         {
             return listaMassa[id];
         }
@@ -47,7 +47,7 @@ namespace Sabores
         {
             listaPicole[id].excluir();
             string mensagem = "";
-            mensagem += "O sabor " + listaPicole[id].sabor + ", do tipo massa foi excluido." + Environment.NewLine;
+            mensagem += "O sabor " + listaPicole[id].sabor + ", do tipo picolé foi excluido." + Environment.NewLine;
             return mensagem;
         }
         public void adiciona(picole objeto)
@@ -62,7 +62,7 @@ namespace Sabores
         {
             return listaPicole.Count;
         }
-        public picole retornaID(int id)
+        public picole retornaPorID(int id)
         {
             return listaPicole[id];
         }
